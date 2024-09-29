@@ -1,6 +1,6 @@
 
 export default function homepage() {
   return (
-    <div>Welcome this is homepage</div>
+    <div>Welcome to Movie Streamer</div>
   )
 }
